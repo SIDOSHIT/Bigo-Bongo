@@ -1,0 +1,28 @@
+.header_promo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.header_promo h1 {
+    margin: 0px;
+}
+
+.header_promo_h {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 250px;
+}
+
+.header_promo_h1_blue {
+    color: var(--dark_blue);
+    font-size: 30px;
+}
+
+.header_promo_h1_whiteBlue {
+    color: var(--white_blue);
+    font-size: 30px;
+}
